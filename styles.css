@@ -40,3 +40,20 @@ body {
     font-size: 20px;
     font-weight: normal;
 }
+
+.contatos {
+    text-align: center;
+}
+
+.contatos img {
+    max-width: 24px;
+    margin-left: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #3468a7;
+}
