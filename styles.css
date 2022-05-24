@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
 
 body {
-    background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+    background: linear-gradient(120deg, #e75590, #00c2cb);
     font-family: 'Roboto', sans-serif;
     padding: 20px;
 }
@@ -34,6 +34,7 @@ body {
     font-size: 36px;
     font-weight: 700;
     margin-bottom: -10px;
+    font-family: "Bradley Hand", cursive;
 }
 
 .titulo h3 {
@@ -43,11 +44,18 @@ body {
 
 .contatos {
     text-align: center;
+    font-family: "Bradley Hand", cursive;
 }
 
 .contatos img {
     max-width: 24px;
     margin-left: 5px;
+}
+
+hr {
+    background-color: black;
+    border-color: black;
+    margin-top: 25px;
 }
 
 a {
